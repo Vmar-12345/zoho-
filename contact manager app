@@ -1,22 +1,64 @@
-
-<!DOC type html>
-<html lang="en">
-<head>
-<head>login</title>
-<link rel="stylesheet" href="css/style.css">
-<link href="ABCD">
-,/head>
-<body class="login-box">
-<div>
-<h1>login</h1>
-<from>
-<label>email</label>
-<input type="email" placeholder="">
-<label>password</label>
-<input type="password"placeholder="">
-<input type="button" value="submit">
-</from>
-</div>
-<p class="para-2">not have an account?<a href="login.html">login here</a>
-</body>
-</html>
+style.css
+body{
+background-colour:#344a72;
+font-family:rodoto,sans-serif;
+}
+.signup-box{
+width:360px;
+height=620px;
+margin=auto;
+background-colour:white;
+border-radius:3px;
+}
+.login-box{
+width:360px;
+height:280px;
+margin:auto;
+border-radius:3px;
+background-colour:3px
+h1{
+text-align:center;
+padding-top:15px;
+}
+h4{
+text-align:center;
+}
+from{
+width:300px;
+margin-left:20px;
+}
+from label{
+display:flex;
+margin-top:20px;
+font-size:18px;
+}
+from input{
+width:100%;
+padding:7px;
+border:none:
+border:1px solid gray;
+border-radius:6px;
+outline:none
+}
+input[type="butten"]{
+width:320px;
+height:35px;
+margin-top:20px;
+border:none;
+background-colour:#49c1a2;
+colour:white;
+font-size:18px;
+}
+p{
+tex-align:center;
+padding-top:20px;
+font-size:15px;
+}
+.para-2{
+text-align:center;
+colour:white;
+font-size:15px;
+margin-top:10px;
+}
+.para-2a{
+colour:#49cla2;
