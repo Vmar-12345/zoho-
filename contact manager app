@@ -1,31 +1,22 @@
-Signup.html
-<!DOCTVPE html>
+
+<!DOC type html>
 <html lang="en">
 <head>
-<title>sign up</title>
+<head>login</title>
 <link rel="stylesheet" href="css/style.css">
 <link href="ABCD">
-re="stylesheet">
-</head>
-<body>
-<div class="signup-box">
-<h1>sign up </h1>
-<h4>its free and only takes a minite</h4>
+,/head>
+<body class="login-box">
+<div>
+<h1>login</h1>
 <from>
-<label>first name</label>
-<input type="text" placeholder="">
-<label>last name </label>
-<input type ="text" placeholder="">
-<label> email</label>
+<label>email</label>
 <input type="email" placeholder="">
 <label>password</label>
-<input type="passsworld"placeholder="">
-<label>conform password</label>
-<input type="password"place holder="">
-<input type="button" valve="submit">
+<input type="password"placeholder="">
+<input type="button" value="submit">
 </from>
-<p>by clicking the sign up button, your agree to our<br>
-<a href="#">terms and condition</a>and<a href="#">policy-privacy</a>
-</p>
 </div>
-<p class="para-2">already have an account?<a href="login.html">login hare</a></p>
+<p class="para-2">not have an account?<a href="login.html">login here</a>
+</body>
+</html>
